@@ -1,0 +1,28 @@
+.container {
+  max-width: 570px;
+  margin:0 auto;
+}
+
+.container h1 {
+  font-size: 55px;
+  color: var(--shit-color);
+  text-align: center;
+}
+
+
+.btn {
+  background-color: var(--shit-dark-color);
+  color:#fff;
+  text-align: center;
+  display: block;
+  padding: 12px;
+  width: 100%;
+  box-sizing: border-box;
+  border:0;
+  cursor: pointer;
+}
+
+.container p {
+  text-align: center;
+  font-size: 1.3em;
+}

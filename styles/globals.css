@@ -1,3 +1,8 @@
+:root {
+	--shit-color: #A97E57;
+	--shit-dark-color: #98602E;
+}
+
 html,
 body {
   padding: 0;
@@ -13,4 +18,8 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.green {
+	color: #57A969;
 }
